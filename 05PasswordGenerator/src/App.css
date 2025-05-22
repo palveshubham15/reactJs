@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+#one{
+    align-self: flex-end;
+}
